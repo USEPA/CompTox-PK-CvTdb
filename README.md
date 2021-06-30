@@ -2,7 +2,7 @@
 
 ![CvTdb logo](CvTdb_logo.png)
 
-The CvTdb is a database of pharmacokinetic time-series for environmental chemicals. The database is designed to be built on a MySQL server. If you do not already have access to a MySQL server, create your own following the instructions at https://dev.mysql.com/doc/mysql-getting-started/en/. The database is also provided in SQLite format, which can be queried or updated in R and Python, or viewed using inloop.github.io/sqlite-viewer/.
+The CvTdb is a database of pharmacokinetic time-series for environmental chemicals. The database is designed to be built on a MySQL server. If you do not already have access to a MySQL server, create your own following the instructions at https://dev.mysql.com/doc/mysql-getting-started/en/. The database is also provided in SQLite format, which can be queried or updated in R and Python, or viewed using http://inloop.github.io/sqlite-viewer/.
 
 Please upload data contributions using the template CvT_data_template.xlsx in this repo. Add underscore, the date (DDMMYYYY), underscore, and your GitHub handle to the filename of your upload.
 
