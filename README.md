@@ -2,8 +2,11 @@
 
 ![CvTdb logo](CvTdb_logo.png)
 
-The CvTdb is a database of pharmacokinetic time-series for environmental chemicals. The database is designed to be built on a MySQL server. If you do not already have access to a MySQL server, create your own following the instructions at https://dev.mysql.com/doc/mysql-getting-started/en/. The database is also provided in SQLite format, which can be queried or updated in R and Python, or viewed using http://inloop.github.io/sqlite-viewer/.
-
-Please upload data contributions using the template CvT_data_template.xlsx in this repo. Add underscore, the date (DDMMYYYY), underscore, and your GitHub handle to the filename of your upload.
-
+The CvTdb is a database of pharmacokinetic time-series for environmental chemicals. The database is built on a PostgreSQL server.
+ 
+If you have data that you're interested in contributing to the database, please contact Risa Sayre (sayre.risa@epa.gov), Toxicologist at the EPA and project co-owner. We suggest entering "CvT Contribution Request" in the subject line to aid us in responding to your request.
+ 
+Data contributions will need to be formatted using the template "CvT_curation_template.xlsx" in this repo. Please use the Curation SOP ("CvT_Curation_SOP") as a guide for correctly extracting your data to comply with the database's standards.
+ 
+Citation to the 2020 publication:
 Sayre, R.R., Wambaugh, J.F. & Grulke, C.M. Database of pharmacokinetic time-series data and parameters for 144 environmental chemicals. Sci Data 7, 122 (2020). https://doi.org/10.1038/s41597-020-0455-1
