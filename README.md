@@ -9,4 +9,5 @@ If you have data that you're interested in contributing to the database, please 
 Data contributions will need to be formatted using the template "CvT_curation_template.xlsx" in this repo. Please use the Curation SOP ("CvT_Curation_SOP") as a guide for correctly extracting your data to comply with the database's standards.
  
 Citation to the 2020 publication:
-Sayre, R.R., Wambaugh, J.F. & Grulke, C.M. Database of pharmacokinetic time-series data and parameters for 144 environmental chemicals. Sci Data 7, 122 (2020). https://doi.org/10.1038/s41597-020-0455-1
+Sayre, R.R., Wambaugh, J.F. & Grulke, C.M. Database of pharmacokinetic time-series data and parameters for 144 environmental chemicals. Sci Data 7, 122 (2020). https://doi.org/10.1038/s41597-020-0455-1 
+Files associated with the first version of the database described in the publication have been moved to the folder "archive".
